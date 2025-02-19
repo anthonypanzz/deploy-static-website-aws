@@ -1,4 +1,5 @@
 # deploy-static-website-aws
+![Screenshot 2025-02-18 194519](https://github.com/user-attachments/assets/a2c68420-8150-4d13-b6eb-561006beb10f)
 
 ![Screenshot 2025-02-18 133614](https://github.com/user-attachments/assets/c3588673-437c-4fe5-88bb-c0ea807060e6)
 ![Screenshot 2025-02-18 133701](https://github.com/user-attachments/assets/0c05959e-7155-484e-8e2a-0cd3b8f8cdf2)
